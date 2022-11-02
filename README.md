@@ -3,7 +3,7 @@ User script to hide cards by artist name on the fxhash website.
 
 Very hacky, might break anytime.
 
-# How to use
+# Prerequesites
 You'll need a user script extension for your browser, like https://www.tampermonkey.net/.
 
 You also need to have the "Display Infos" toggle enabled in you fxhash website settings.
