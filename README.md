@@ -13,4 +13,4 @@ In Tampermonkey, go to Utilites and choose "Import from file", select "fxhash fr
 
 Then go to "Installed Userscripts", and click the "Edit" icon.
 
-From there, you can edit to "toHide" array and add/remove case sensitive artists names. Don't forget to save the script after modification.
+From there, you can edit the "toHide" array and add/remove case sensitive artists names. Don't forget to save the script after modification and to enable the script itself.
